@@ -1,0 +1,12 @@
+[submodule "src/DepthSplat"]
+	path = src/DepthSplat
+	url = https://github.com/Yuhuoo/GSCompleter-DepthSplat.git
+	branch = gs_completer_v1
+[submodule "src/ADGaussian"]
+	path = src/ADGaussian
+	url = https://github.com/Yuhuoo/GSCompleter-ADGaussian.git
+	branch = gscompleter
+[submodule "PE-Field"]
+	path = PE-Field
+	url = https://github.com/Yuhuoo/GSCompleter-PE-Field.git
+	branch = gscompleter
